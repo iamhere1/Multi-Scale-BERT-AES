@@ -1,0 +1,13 @@
+1. Download the project to the computer.
+2. Download the model to the computer with the following link and code:
+   Link: https://pan.baidu.com/s/1RRAN47MPrlJ4XO-rpXG5ag
+   Code: x9wb
+3. Update the config file "asap.ini" as following:
+   As this is only a decoding demo for essays of prompt8 trained on the third fold data, you should only change the following options:
+   data_dir: your local data path (prompt 8 essays)
+   model_directory: your local model directory
+   result_file: the file to store prediction score
+4. run script to get scoring result:
+   sh decode.sh
+
+
