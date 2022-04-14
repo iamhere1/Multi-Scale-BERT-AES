@@ -1,8 +1,7 @@
 Steps to run the decoding process:
 step 1: Download the project to the computer.
-step 2: Download the model(for ASAP's prompt 8) to the computer with the following link and code:
-        Link: https://pan.baidu.com/s/1RRAN47MPrlJ4XO-rpXG5ag
-        Code: x9wb
+step 2: Download the model(for ASAP's prompt 8) to the computer with the following link:
+        Link: https://pan.baidu.com/s/1_m_-DQlX-dLh1XdhOMzj1A?pwd=tmmb
 step 3: Update the config file "asap.ini" as following:
         To run the scoring process, you only need to change the following options:
         data_dir: your local data directory to store the essays data of prompt 8 (format: id text score)
